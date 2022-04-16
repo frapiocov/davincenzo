@@ -241,7 +241,7 @@ header .intro-text {
 	padding: 50px 0;
 }
 #about .about-img {
-	background: #444 url(../img/gallery-bg.jpg) center center no-repeat;
+	background: #444 url(../img/gallery/ann.jpg) center center no-repeat;
 	background-size: cover;
 	height: 570px;
 }
