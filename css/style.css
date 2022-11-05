@@ -330,8 +330,14 @@ header .intro-text {
 }
 #contact .contact-item p {
 	font-size: 15px;
-	color: #777;
+	color: rgb(193, 180, 180);
 }
+
+#contact .contact-item a p {
+	color: #ccc;
+	font-style: italic;
+}
+
 #contact .section-title {
 	margin-top: 60px;
 	margin-bottom: 40px;
